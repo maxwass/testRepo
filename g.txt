@@ -1,1 +1,2 @@
+<<<<<<< HEAD
 new file- change - change to g.txt
